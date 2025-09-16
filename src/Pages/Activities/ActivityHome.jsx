@@ -4,7 +4,7 @@ import img1 from '../../assets/images/img1.jpg'; // Hero section background
 import routineImage from '../../assets/academics/acadmics.png'; 
 import CoreActivitiesSection from './CoreActivities';
 import AdrishyaSection from './AdrishyaPage';
-import heroImageURL from '../../assets/GurukulaActivities/vv4.jpg'
+import heroImage from '../../assets/GurukulaActivities/vv3.JPG'
 
 
 const gurukulaRoutine = [
@@ -36,7 +36,7 @@ const ActivityPage = () => {
       {/* Hero Section */}
       <div
         className="relative h-screen bg-cover bg-center flex items-center justify-center text-center"
-        style={{ backgroundImage: `url(${heroImageURL})` }}
+        style={{ backgroundImage: `url(${heroImage})` }}
       >
         <div className="absolute inset-0 bg-black opacity-50"></div>
         <main className="relative z-10 max-w-4xl mx-auto px-4 mt-32">
