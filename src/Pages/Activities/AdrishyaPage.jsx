@@ -10,7 +10,7 @@ import adrishya1 from '../../assets/images/adrishiya1.jpg';
 import vv1 from '../../assets/GurukulaActivities/vv1.jpg'
 import vv2 from '../../assets/GurukulaActivities/vv2.png'
 import vv3 from '../../assets/GurukulaActivities/vv3.JPG'
-import vv4 from '../../assets/GurukulaActivities/vv4.jpg'
+import vv4 from '../../assets/GurukulaActivities/vidyavarana.png'
 import vv6 from '../../assets/GurukulaActivities/vv6.JPG'
 import cl1 from '../../assets/GurukulaActivities/cl1.JPG'
 import cl2 from '../../assets/GurukulaActivities/cl2.JPG'
