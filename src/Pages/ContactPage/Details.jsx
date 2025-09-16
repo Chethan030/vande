@@ -40,7 +40,7 @@ const ContactDetailsSection = () => {
             <EmailIcon />
             <h3 className="text-xl font-bold text-gray-800 font-heading">Email</h3>
             <a href="mailto:contact@vmgurukulam.org" className="mt-2 text-base text-indigo-600 hover:underline">
-              contact@vmgurukulam.org
+              @vmgurukulam.acc@gmail.com
             </a>
           </div>
 
