@@ -233,29 +233,6 @@ const AdrishyaSection = () => {
         </form>
       </div>
 
-      {/* 5. Contact Section */}
-      <div className="text-center mb-10 bg-white rounded-2xl p-8 shadow-lg border border-yellow-200">
-        <h3 className="text-2xl sm:text-3xl font-bold text-yellow-700 mb-6">
-          Connect with Adrishya
-        </h3>
-        <p className="text-gray-700 mb-3">
-          Email: <a href="mailto:contact@adrishya.org" className="text-yellow-600 hover:text-yellow-800 hover:underline font-medium">contact@adrishya.org</a>
-        </p>
-        <p className="text-gray-700 mb-8">
-          Phone: <a href="tel:+911234567890" className="text-yellow-600 hover:text-yellow-800 hover:underline font-medium">+91 123 456 7890</a>
-        </p>
-        <div className="flex justify-center space-x-6">
-          <a href="#" className="text-yellow-500 hover:text-yellow-700 text-2xl transition transform hover:scale-125">
-            <i className="fab fa-facebook"></i>
-          </a>
-          <a href="#" className="text-yellow-500 hover:text-yellow-700 text-2xl transition transform hover:scale-125">
-            <i className="fab fa-instagram"></i>
-          </a>
-          <a href="#" className="text-yellow-500 hover:text-yellow-700 text-2xl transition transform hover:scale-125">
-            <i className="fab fa-youtube"></i>
-          </a>
-        </div>
-      </div>
     </div>
   );
 };
