@@ -1,7 +1,6 @@
 // src/pages/AboutPage.jsx
 import React from 'react';
 import OurPhilosophySection from './OurPhilosophySection';
-
 import heroImage from '../../assets/Backgrounds/about.jpg'; 
 import TeamSection from './TeamSection';
 import SteeringBoardSection from './SteeringBoardTeam';
