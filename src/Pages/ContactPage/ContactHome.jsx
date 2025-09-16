@@ -3,7 +3,6 @@ import React from 'react';
 import heroImage from '../../assets/images/donate.png'; 
 import ContactFormSection from './ContactForm';
 import ContactDetailsSection from './Details';
-
 const ContactPage = () => {
   return (
     <div className="overflow-x-hidden"> {/* Prevent horizontal scroll */}

@@ -7,7 +7,7 @@ import AboutSection from './AboutSection';
 import PillarsSection from './PillerSection'
 import NewsSection from './NewsSection';
 import VolunteerSection from './VolunterSection';
-import heroImageURL from '../../assets/Backgrounds/background.jpg'
+import heroImageURL from '../../assets/Backgrounds/Background.jpg'
 
 const youtubeVideoID = '_0yLQ4H0W1g'; 
 
