@@ -1,7 +1,7 @@
 // src/pages/AboutPage.jsx
 import React from 'react';
 import OurPhilosophySection from './OurPhilosophySection';
-import heroImage from '../../assets/Backgrounds/about.jpg'; 
+import heroImag from '../../assets/Backgrounds/about.jpg'
 import TeamSection from './TeamSection';
 import SteeringBoardSection from './SteeringBoardTeam';
 
@@ -11,7 +11,7 @@ const AboutPage = () => {
       {/* Main Hero Section for the About Page */}
       <div
         className="relative h-screen bg-cover bg-center flex items-center justify-center text-center"
-        style={{ backgroundImage: `url(${heroImage})` }}
+        style={{ backgroundImage: `url(${heroImag})` }}
       >
         <div className="absolute inset-0 bg-black opacity-50"></div>
         <main className="relative z-10 max-w-4xl mx-auto px-4 mt-32 ">
