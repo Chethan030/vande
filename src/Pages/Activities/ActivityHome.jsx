@@ -4,8 +4,8 @@ import img1 from '../../assets/images/img1.jpg'; // Hero section background
 import routineImage from '../../assets/academics/acadmics.png'; 
 import CoreActivitiesSection from './CoreActivities';
 import AdrishyaSection from './AdrishyaPage';
-import vv2 from '../../assets/GurukulaActivities/vv4.jpg'
-const heroImageURL = vv2; 
+import heroImageURL from '../../assets/GurukulaActivities/vv4.jpg'
+
 
 const gurukulaRoutine = [
   { time: '4:30 AM', activity: 'Wake up & Nithya Karma' },
