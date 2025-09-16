@@ -23,7 +23,7 @@ const SteeringBoardSection = () => {
     { name: 'Jagannath Bidrigowdra', image: boardMember5 },
     { name: 'Girish Prabhu S', image: boardMember6 },
     { name: 'Ranjith B R', image: boardMember8 },
-    { name: 'Raghavendra B S ', image:'' },
+    // { name: 'Raghavendra B S ', image:'' },
   ];
 
   return (
